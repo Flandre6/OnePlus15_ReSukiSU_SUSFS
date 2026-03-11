@@ -1,11 +1,11 @@
 {
-  "model": "OP-ACE",
-  "soc": "dimensity8000",
-  "branch": "wild/mt6895",
-  "manifest": "oneplus_ace_u.xml",
+  "model": "OP10pro",
+  "soc": "waipio",
+  "branch": "wild/sm8450",
+  "manifest": "oneplus_10_pro_w.xml",
   "android_version": "android12",
   "kernel_version": "5.10",
-  "os_version": "OOS14",
+  "os_version": "OOS16",
   "lto": "thin",
   "rust_build": false,
   "disk_cleanup": false,
@@ -16,5 +16,5 @@
   "ttl": true,
   "ip_set": true,
   "unicode": true,
-  "uname": "OP-RESUKISU"
+  "uname": "OP-WILD"
 }
