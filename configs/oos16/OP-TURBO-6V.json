@@ -1,8 +1,8 @@
 {
-  "model": "OP-NORD-CE4-LITE",
-  "soc": "blair",
-  "branch": "wild/sm6375",
-  "manifest": "oneplus_nord_ce4_lite_5g_w.xml",
+  "model": "OP-TURBO-6V",
+  "soc": "vulcano",
+  "branch": "wild/sm7635",
+  "manifest": "oneplus_turbo_6v_w.xml",
   "android_version": "android14",
   "kernel_version": "6.1",
   "os_version": "OOS16",
@@ -19,6 +19,5 @@
   "ttl": true,
   "ip_set": true,
   "unicode": true,
-  "uname": "OP-RESUKISU",
-  "kpm": true
+  "uname": "OP-WILD"
 }
